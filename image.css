@@ -1,0 +1,22 @@
+span img{
+    width: 30%;
+    height: 100%;
+    border-radius: 10%;
+}
+body{
+    background-color: black;
+}
+a:link{
+    text-decoration: none;
+    color: rgb(245, 246, 250);
+    
+}
+a:visited{
+    color: rgb(254, 255, 255);
+}
+a:hover{
+    color:rgb(17, 110, 81);
+}
+a:active{
+    color: aliceblue;
+}
